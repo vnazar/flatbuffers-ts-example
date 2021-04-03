@@ -1,6 +1,5 @@
 # flatbuffers-ts-example
 
----
 ## How to run it?
 ```shell
 npmp install
