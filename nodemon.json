@@ -1,0 +1,8 @@
+{
+  "env": {
+    "NODE_PATH": "src/"
+  },
+  "exec": "node_modules/.bin/ts-node ./src",
+  "ext": "ts",
+  "watch": ["src"]
+}

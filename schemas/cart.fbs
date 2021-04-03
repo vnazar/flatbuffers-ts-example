@@ -1,0 +1,16 @@
+
+namespace ShoppingCart;
+
+table Item {
+  id: string;
+  name: string;
+  price: float64;
+}
+
+table Cart {
+  items: [Item];
+  total: float64;
+}
+
+root_type Cart;
+
